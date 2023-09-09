@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm **Keval**, an automobile enthusiast along with crazy interest in developing! ✨ 
+
+- 🔭 I’m currently working on few projects like https://devxkeval.tech/
+- 🌱 I’m currently learning Information & Communication Technology at Marwadi Univeristy, Rajkot
+- 💬 Ask me anything about cars and websites/mobile applications.
+- 😄 Pronouns: He/Him proudly
+- ⚡ Fun fact: I also have a youtube channel as https://youtube.com/@technokeval
 
 <!--
 **KevalB/KevalB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
