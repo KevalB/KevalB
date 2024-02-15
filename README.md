@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Keval**, an automobile enthusiast along with crazy interest in developing! ✨ 
+I'm **Keval**, an automobile enthusiast along with crazy interest in development! ✨ 
 
 - 🔭 I’m currently working on few projects like https://devxkeval.tech/
 - 🌱 I’m currently learning Information & Communication Technology at Marwadi Univeristy, Rajkot
