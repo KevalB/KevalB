@@ -5,7 +5,7 @@ I'm **Keval**, an automobile enthusiast along with crazy interest in development
 - 🌱 I’m currently learning Information & Communication Technology at Marwadi Univeristy, Rajkot
 - 💬 Ask me anything about cars and websites/mobile applications.
 - 😄 Pronouns: He/Him proudly
-- ⚡ Fun fact: I also have a youtube channel as https://youtube.com/@technokeval
+- ⚡ Fun fact: I also have a youtube channel as https://youtube.com/@slayingtech
 
 <!--
 **KevalB/KevalB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
