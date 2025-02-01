@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **Keval**, an automobile enthusiast along with crazy interest in development! ✨ 
 
-- 🔭 I’m currently working on few projects like https://devxkeval.tech/
+- 🔭 I’m currently working on few projects like https://slayingtech.com/
 - 🌱 I’m currently learning Information & Communication Technology at Marwadi Univeristy, Rajkot
 - 💬 Ask me anything about cars and websites/mobile applications.
 - 😄 Pronouns: He/Him proudly
