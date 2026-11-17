@@ -1,6 +1,6 @@
 # Hi, I'm Keval 👋
 
-M.Sc. Informatik student at **Universität Augsburg**, focusing on **machine learning and generative AI**.
+M.Sc. Informatik student at **Universität Augsburg**, focusing on **machine learning and AI**.
 I like building LLM workflows and deep-learning models, and then checking whether they beat a baseline.
 
 ### 🔭 What I work on
@@ -8,16 +8,13 @@ I like building LLM workflows and deep-learning models, and then checking whethe
 - **Computer vision**: a CNN that detects defective tyres (transfer learning in Keras/TensorFlow, 96% test accuracy), with a Tkinter GUI for live results.
 - **GenAI apps**: an AI assistant that identifies car dashboard warning lights and tells drivers what to do. [Try it live →](https://slayingtech.com)
 
-### 📚 Currently studying
-Generative AI · Deep Learning for Weather Forecasting · ML for Time Series · Analysing Massive Data Sets
-
 ### 🛠️ Tech
 **Languages:** Python, SQL, Java, JavaScript
 **ML/AI:** TensorFlow/Keras, OpenCV, LLM integration, agentic workflows, prompt engineering, pandas, Jupyter
 **Other:** Git, REST APIs, React, Angular, Node.js, Flutter, Streamlit
 
 ### 🌱 Looking for
-A **HiWi position** in ML / GenAI research: experiments, evaluation and tooling.
+A **HiWi position / Working Student roles** the field of Computer Science.
 
 ### 📫 Contact
 [Portfolio](https://slayingtech.com) · [LinkedIn](https://linkedin.com/in/kevalb) · keval.behera@uni-a.de
