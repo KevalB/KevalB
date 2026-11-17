@@ -1,23 +1,25 @@
-### Hi there 👋
-I'm **Keval**, an automobile enthusiast along with crazy interest in development! ✨ 
+# Hi, I'm Keval 👋
 
-- 🔭 I’m currently working on few projects like https://slayingtech.com/
-- 🌱 I’m currently learning Information & Communication Technology at Marwadi Univeristy, Rajkot
-- 💬 Ask me anything about cars and websites/mobile applications.
-- 😄 Pronouns: He/Him proudly
-- ⚡ Fun fact: I also have a youtube channel as https://youtube.com/@slayingtech
+M.Sc. Informatik student at **Universität Augsburg**, focusing on **machine learning and generative AI**.
+I like building LLM workflows and deep-learning models, and then checking whether they beat a baseline.
 
-<!--
-**KevalB/KevalB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I work on
+- **Agentic LLM workflows**: as a Junior AI Engineer at AshHost, I built pipelines that extract, validate and route customer requests to CRM records, with human review for low-confidence cases. This cut manual processing time by 50%.
+- **Computer vision**: a CNN that detects defective tyres (transfer learning in Keras/TensorFlow, 96% test accuracy), with a Tkinter GUI for live results.
+- **GenAI apps**: an AI assistant that identifies car dashboard warning lights and tells drivers what to do. [Try it live →](https://slayingtech.com)
 
-Here are some ideas to get you started:
+### 📚 Currently studying
+Generative AI · Deep Learning for Weather Forecasting · ML for Time Series · Analysing Massive Data Sets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+**Languages:** Python, SQL, Java, JavaScript
+**ML/AI:** TensorFlow/Keras, OpenCV, LLM integration, agentic workflows, prompt engineering, pandas, Jupyter
+**Other:** Git, REST APIs, React, Angular, Node.js, Flutter, Streamlit
+
+### 🌱 Looking for
+A **HiWi position** in ML / GenAI research: experiments, evaluation and tooling.
+
+### 📫 Contact
+[Portfolio](https://slayingtech.com) · [LinkedIn](https://linkedin.com/in/kevalb) · keval.behera@uni-a.de
+
+🗣️ English C1 · German B1 (B2 in progress)
